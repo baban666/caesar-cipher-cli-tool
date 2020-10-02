@@ -1,0 +1,23 @@
+{
+  "name": "caesar-cipher-cli-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baban666/caesar-cipher-cli-tool.git"
+  },
+  "keywords": [],
+  "author": "baban666",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baban666/caesar-cipher-cli-tool/issues"
+  },
+  "homepage": "https://github.com/baban666/caesar-cipher-cli-tool#readme",
+  "dependencies": {
+    "commander": "^6.1.0"
+  }
+}
