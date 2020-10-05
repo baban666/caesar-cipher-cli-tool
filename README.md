@@ -11,6 +11,7 @@
 ## 3. To run script
 
    node index -a encode -s 7 -i "./input.txt" -o "./output.txt"
+   
    node index -a encode -s 7      
 
 ## Task Description
