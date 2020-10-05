@@ -3,7 +3,6 @@ const {programCommands} = require('./modules/program-commands');
 const { commandValidate } = require('./modules/commands-validate');
 const {coderTool} = require('./modules/coder-tool');
 
-
 const run = ({ shift, action, input, output }) => {
   try {
     const outputPath = output ? path.join(__dirname, output) : null;
